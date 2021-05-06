@@ -25,5 +25,6 @@ cada nodo (excepto el último) enlaza con el nodo siguiente, y el enlace del úl
 En el repo encontraras una implementación personalizada de una lista. Las operaciones básicas que se pueden realizar sobre una lista son: Crear, Insertar, Eliminar
 y consultar si esta vacía. La implementación que aquí se encuentra, tiene algunas operaciones más. 
 Claro que la mayoría de los lenguajes de programación tienen su propio tipo de Lista, de hecho, esta implementación está hecha con fines educativos.
-Por ejemplo,en Java puedes encontrar la interfaz [List<E>](https://docs.oracle.com/javase/8/docs/api/java/util/List.html).
+Por ejemplo,en Java puedes encontrar la interfaz [List<E>](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) la cual proporciona las operaciones, y luego
+estan las clases que la implementan, como ArrayList y LinkedList.
 
